@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SReminder/SReminder.iml" filepath="$PROJECT_DIR$/SReminder/SReminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleReminder.iml" filepath="$PROJECT_DIR$/SimpleReminder.iml" />
+    </modules>
+  </component>
+</project>
