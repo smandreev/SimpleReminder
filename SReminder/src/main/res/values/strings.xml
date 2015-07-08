@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Simple Reminder</string>
+    <string name="app_name">Простой Захуятор</string>
     <string name="hello_world">Hello Botsman!</string>
     <string name="action_settings">Settings</string>
     <string name="heil_botsman">Botsman the Great and Mighty</string>
