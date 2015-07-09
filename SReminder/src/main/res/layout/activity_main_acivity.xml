@@ -21,7 +21,7 @@
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="128dp"
-        android:text="Факушки Е-е-е-е!!!"
+        android:text="Факушки Й-е-е-е!!!"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <ImageButton
