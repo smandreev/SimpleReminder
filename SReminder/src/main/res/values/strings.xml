@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Простой Захуятор</string>
-    <string name="app_desktop_name">Захуято 1.0</string>
+    <string name="app_name" translatable="false">Простой Захуятор</string>
+    <string name="app_desktop_name" translatable="false">Захуято 1.0</string>
     <string name="hello_world">Hello Botsman!</string>
-    <string name="action_settings">!!!Хуетингс</string>
+    <string name="action_settings" translatable="false">!!! Хуетингс</string>
     <string name="heil_botsman">Botsman the Great and Mighty</string>
 
     <string-array name="btn_zah_states">
